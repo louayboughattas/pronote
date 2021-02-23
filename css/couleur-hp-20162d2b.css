@@ -1,0 +1,297 @@
+.bandeau-hyperplanning2 {
+    background-image: linear-gradient(to right top, #981b45, #921841, #8d153d, #871139, #820e35);
+}
+
+.color-hyperplanning-a {
+    color: #981b45;
+}
+
+.bgcolor-hyperplanning-a {
+    background-color: #981b45;
+}
+
+.color-hyperplanning-b {
+    color: #923016;
+}
+
+.bgcolor-hyperplanning-b {
+    background-color: #923016;
+}
+
+.color-hyperplanning-c {
+    color: #66210f;
+}
+
+.bgcolor-hyperplanning-c {
+    background-color: #66210f;
+}
+
+.color-hyperplanning-d {
+    color: #661780;
+}
+
+.bgcolor-hyperplanning-d {
+    background-color: #661780;
+}
+
+.color-hyperplanning-e {
+    color: #72238c;
+}
+
+.bgcolor-hyperplanning-e {
+    background-color: #72238c;
+}
+
+.color-hyperplanning-f {
+    color: #6b1c85;
+}
+
+.bgcolor-hyperplanning-f {
+    background-color: #6b1c85;
+}
+
+.color-hyperplanning-g {
+    color: #7b2c95;
+}
+
+.bgcolor-hyperplanning-g {
+    background-color: #7b2c95;
+}
+
+.color-hyperplanning-h {
+    color: #4F0069;
+}
+
+.bgcolor-hyperplanning-h {
+    background-color: #4F0069;
+}
+
+.color-hyperplanning-i {
+    color: #66210f;
+}
+
+.bgcolor-hyperplanning-i {
+    background-color: #66210f;
+}
+
+.color-hyperplanning-j {
+    color: #64157e;
+}
+
+.bgcolor-hyperplanning-j {
+    background-color: #64157e;
+}
+
+.navbar-nav>li.opennav>.dropdown-toggle-hyperplanning,
+#main-menu>li.open>.dropdown-toggle-hyperplanning,
+.navbar-nav>li.open.active>.dropdown-toggle-hyperplanning,
+#main-menu>li.open.active>.dropdown-toggle-hyperplanning {
+    background: #fff;
+    color: #981b45;
+}
+
+@media (min-width: 992px) {
+    /* CSS MODIF COULEUR NAVBAR hyperplanning */
+    .navbar-nav>li.opennav>.dropdown-toggle-hyperplanning,
+    #main-menu>li.open>.dropdown-toggle-hyperplanning,
+    .navbar-nav>li.open.active>.dropdown-toggle-hyperplanning,
+    #main-menu>li.open.active>.dropdown-toggle-hyperplanning,
+    .navbar-nav>li.opennav>.dropdown-toggle-hyperplanning,
+    #main-menu>li.open>.dropdown-toggle-hyperplanning,
+    .navbar-nav>li.open.active>.dropdown-toggle-hyperplanning,
+    #main-menu>li.open.active>.dropdown-toggle-hyperplanning {
+        border-top-color: transparent !important;
+        background: #fff;
+        border-right: 1px solid transparent;
+        border-left: 1px solid transparent;
+        border-bottom: transparent;
+    }
+}
+
+.navbar-nav>li>.dropdown-toggle-hyperplanning,
+#main-menu>li>.dropdown-toggle-hyperplanning {
+    color: #981b45;
+    border: 0;
+    /* hyperplanning colour */
+}
+
+#jPanelMenu-menu .dropdown-toggle-hyperplanning span {
+    border-radius: 0px;
+    border: 0px solid #fff !important;
+    background: none;
+    padding: 0
+}
+
+#jPanelMenu-menu .dropdown-toggle-hyperplanning span:hover {
+    border-radius: 0px;
+    border: 0px solid transparent !important;
+    background: transparent;
+    padding: 0
+}
+
+.dropdown-toggle-hyperplanning span:hover {
+    background: #981b45;
+    color: white;
+    border: 2px solid #981b45 !important;
+}
+
+.dropdown-toggle-hyperplanning span {
+    border-radius: 20px;
+    border: 2px solid #981b45 !important;
+    background: #981b45;
+    color: #fff;
+    padding: 0.5em 0.9em;
+    font-size: 0.9em
+}
+
+.navbar-nav>li.opennav>.dropdown-toggle-hyperplanning span,
+#main-menu>li.open>.dropdown-toggle-hyperplanning span,
+.navbar-nav>li.open.active>.dropdown-toggle-hyperplanning span,
+#main-menu>li.open.active>.dropdown-toggle-hyperplanning span {
+    border-radius: 20px;
+    border: 2px solid #981b45 !important;
+    background: #981b45;
+    color: #fff;
+    padding: 0.5em 0.9em;
+    font-size: 0.9em
+}
+
+.navbar-nav>li.opennav>.dropdown-toggle-hyperplanning span:hover,
+#main-menu>li.open>.dropdown-toggle-hyperplanning span:hover,
+.navbar-nav>li.open.active>.dropdown-toggle-hyperplanning span:hover,
+#main-menu>li.open.active>.dropdown-toggle-hyperplanning span:hover {
+    background: #981b45;
+    color: white;
+    border: 2px solid #981b45 !important;
+}
+
+.hyperplanning .menu-titre {
+    color: #981b45;
+    border-bottom: 1px solid #981b45;
+}
+
+.navbar-collapse .hyperplanning .dropdown-menu .dropdown-header {
+    color: #981b45;
+}
+
+/* --------------------------------------------------
+ * Sidemenu
+ *-------------------------------------------------- */
+
+.section-menu.hyperplanning ul.nav-list li a {
+    color: #981b45;
+}
+
+.section-menu.hyperplanning ul.nav-list li.active>a,
+.section-menu.hyperplanning ul.nav-list li.active>a:hover {
+    color: #981b45;
+}
+
+.section-menu.hyperplanning ul.nav-list li a:hover i {
+    color: #981b45;
+}
+
+.section-menu.hyperplanning ul.nav-list li.active>a:hover i {
+    color: #981b45;
+}
+
+.section-menu.hyperplanning ul.nav-list li.active>a i {
+    color: #981b45;
+}
+
+.section-menu.hyperplanning .sidebar-ss-menu a.active {
+    color: #981b45 !important;
+}
+
+/*////////////////////TARIFS FORMULES////////////////////////////////*/
+
+.tarifs-hyperplanning {
+    background-color: #981b45;
+    padding: 2%
+}
+
+/*////////////////////blockquote////////////////////////////////*/
+
+.blockquote-hyperplanning p {
+    background: none repeat scroll 0 0 #981b45;
+    border-radius: 3px;
+    padding: 15px;
+    position: relative;
+    color: white;
+}
+
+.blockquote-hyperplanning p:after,
+blockquote p:before {
+    border: medium solid transparent;
+    content: " ";
+    height: 0;
+    pointer-events: none;
+    position: absolute;
+    top: 100%;
+    width: 0;
+}
+
+.blockquote-hyperplanning p:after {
+    border-top-color: #981b45;
+    border-width: 10px;
+    left: 10%;
+    margin-left: -10px;
+}
+
+.blockquote-hyperplanning p:before {
+    border-top-color: rgba(0, 0, 0, 0.01);
+    border-width: 11px;
+    left: 10%;
+    margin-left: -11px;
+}
+
+/*////////////////////boutons////////////////////////////////*/
+
+.btn-hyperplanning {
+    background-color: #981b45;
+    border-color: #981b45;
+    color: white;
+}
+
+.btn-hyperplanning:hover {
+    background-color: #7d062e;
+    color: #eee;
+}
+
+.btn-hyperplanning:visited {
+    color: white
+}
+
+.btn-hyperplanning:active {
+    color: white
+}
+
+/*////////////////////panel////////////////////////////////*/
+
+.panel-hyperplanning>.panel-heading {
+    color: #7d062e !important;
+    background-color: none !important;
+}
+
+.panel-hyperplanning>.panel-heading>.open.active a {
+    color: #fff !important
+}
+
+.panel-hyperplanning>.panel-heading>ul.nav-tabs li.active a,
+ul.nav-tabs li.open.active a,
+ul.nav-tabs li.active a:hover,
+ul.nav-tabs li.open.active a:hover {
+    background: #7d062e;
+    color: #7d062e;
+    border-color: #7d062e !important;
+    color: white !important;
+}
+
+.panel-hyperplanning>.panel-footer+.panel-collapse>.panel-body {
+    border-bottom-color: #7d062e;
+}
+
+.panel-hyperplanning>ul.nav-tabs li.active a,
+ul.nav-tabs li.open.active a,
+ul.nav-tabs li.active,
+ul.nav-tabs li.open.active {}
